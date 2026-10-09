@@ -8,4 +8,4 @@ The application listens on port 8000 and returns a text response when accessed o
 
 ## Verification
 
-The running application should be verified using an HTTP request to port 8000.
+Verify the running application with: curl http://localhost:8080 (host port 8080 maps to container port 8000).
