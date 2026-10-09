@@ -8,4 +8,4 @@ The application listens on port 8000 and returns a text response when accessed o
 
 ## Verification
 
-The running application should be verified using an HTTP request to port 8000.
+A successful response includes the line: Status: healthy - <NetID>
