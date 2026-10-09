@@ -1,5 +1,3 @@
-# Git and Docker Starter Application
-
 This repository contains a small Python web application used to practice Git, GitHub, and Docker workflows.
 
 ## Application
@@ -9,3 +7,4 @@ The application listens on port 8000 and returns a text response when accessed o
 ## Verification
 
 Verify the running application with: curl http://localhost:8080 (host port 8080 maps to container port 8000).
+A successful response includes the line: Status: healthy - <NetID>
